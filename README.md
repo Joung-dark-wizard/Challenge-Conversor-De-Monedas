@@ -30,14 +30,14 @@ Este proyecto es un conversor de monedas desarrollado en Java, que permite conve
 ## Capturas de Pantalla
 
 ### Pruba de la aplicación
-![Interfaz Consola](ruta/a/captura-consola.png)
+![Captura de pantalla 2024-10-15 010435](https://github.com/user-attachments/assets/571e8553-d569-4a21-b309-ddf77fbe4907)
 
 ### Resultado de una conversión
-![Resultado Conversión](ruta/a/captura-resultado.png)
+![Captura de pantalla 2024-10-15 122214](https://github.com/user-attachments/assets/cd501acb-30dc-4370-84c0-05c940efb7c8)
 
 ## Video de Demostración
 
-[![Video Demostración](ruta/a/captura-video.png)](https://link-al-video.com)
+[![Video Demostración](ruta/a/captura-video.png)](https://github.com/user-attachments/assets/fb060b0b-42da-4e39-a2e1-44b971f230c4)
 
 ## Cómo Funciona
 Este proyecto utiliza la **API de Exchange Rate** para obtener tipos de cambio actuales y calcular la conversión de monedas en tiempo real. Usa la librería **Gson** para manejar los datos en formato JSON obtenidos de la API.
