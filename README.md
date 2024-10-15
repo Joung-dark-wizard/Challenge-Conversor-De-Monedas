@@ -29,7 +29,7 @@ Este proyecto es un conversor de monedas desarrollado en Java, que permite conve
 
 ## Capturas de Pantalla
 
-### Interfaz de la consola
+### Pruba de la aplicación
 ![Interfaz Consola](ruta/a/captura-consola.png)
 
 ### Resultado de una conversión
